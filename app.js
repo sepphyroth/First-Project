@@ -6,4 +6,4 @@ let formatDate = today.toDateString();
 let selectElement =  document.getElementById('date');
 selectElement.innerHTML = formatDate;
 
-console.log('Here \'s a hidden menssage');
+console.log('Here \'s a hidden menssage 2');
